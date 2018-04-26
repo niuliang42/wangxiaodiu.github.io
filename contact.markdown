@@ -2,5 +2,6 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+My Email: liang dot niu at nyu.edu
+
+I am currently living in NYC.
