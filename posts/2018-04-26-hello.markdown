@@ -1,9 +1,0 @@
----
-title: Hello World!
----
-
-Hello World!
-
-This is the first post from Liang Niu, just to test the Hakyll works fine.
-
-See you next post!
