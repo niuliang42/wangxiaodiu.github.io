@@ -16,4 +16,5 @@ My research interests include:
 - GPS Security
 - Security & Machine Learning
 
-Here is my CV: (Coming Soon)
+Here is my Résumé:
+[Résumé](/cv.pdf)

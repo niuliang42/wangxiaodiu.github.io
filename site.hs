@@ -11,7 +11,7 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "CNAME" $ do
+    match (fromList ["cv.pdf", "CNAME"]) $ do
         route   idRoute
         compile copyFileCompiler
 
