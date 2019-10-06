@@ -1,5 +1,5 @@
 # Watch how is everything
-# stack exec myblog watch
+# stack exec site watch
 
 # Temporarily store uncommited changes
 # git stash
@@ -8,9 +8,9 @@
 # git checkout develop
 
 # Build new files
-# stack exec myblog clean
-# stack exec myblog build
-stack exec myblog rebuild
+# stack exec site clean
+# stack exec site build
+stack exec site rebuild
 
 # Get previous files
 git fetch --all
